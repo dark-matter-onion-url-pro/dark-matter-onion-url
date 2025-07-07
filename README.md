@@ -24,4 +24,6 @@ Remember that anonymity is absolutely key when navigating these hidden spaces. A
 
 
 
-Update:  04.07.2025 04:30 link is operational and accessible
+
+
+Update:  07 July 2025 Fixed broken links in debugging resources
