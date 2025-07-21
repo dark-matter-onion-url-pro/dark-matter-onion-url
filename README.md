@@ -30,4 +30,6 @@ Remember that anonymity is absolutely key when navigating these hidden spaces. A
 
 
 
-Update:  18 July
+
+
+Update: Link is now operational
